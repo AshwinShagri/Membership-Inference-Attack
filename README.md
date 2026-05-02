@@ -2,7 +2,7 @@
 
 **Course:** Trustworthy Machine Learning, 2026  
 **Institution:** CISPA Helmholtz Center for Information Security  
-**Author:** Ashwin Kumar, Harini Raj  
+**Author:** Ashwin Kumar, Harini Raj   
 **Leaderboard Team:** team_LXXIX  
 
 ---
