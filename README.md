@@ -18,7 +18,7 @@ The attack is based on **RMIA (Relative Membership Inference Attack)** from Zari
 ## Repository Structure
 
 ```
-├── attack3.ipynb          # Main attack notebook — run this to reproduce results
+├── MIA.ipynb          # Main attack notebook — run this to reproduce results
 ├── README.md              # This file
 └── shadow_checkpoints/    # Cached shadow model scores (generated on first run)
     ├── scores_000.npz
