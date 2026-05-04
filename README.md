@@ -68,10 +68,6 @@ The notebook will:
 > **First run:** ~4 hours on RTX 4060 Laptop GPU (shadow training + scoring)  
 > **Subsequent runs:** ~3 minutes (loads all cached scores)
 
-### 4. Submit
-
-Fill in your API key in Section 7 and run the submission cell.
-
 ---
 
 ## Method Summary
